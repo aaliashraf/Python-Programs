@@ -9,5 +9,5 @@ Juypter Notebook IDE.
 3. Every Problem is in its own function.
 4. To run the program in cell use ctrl+enter in respective cell.
 5. Every problem is tested with at least 2 test cases .
-6. For you own test case pass argument to respective function.
+6. For your own test case pass argument to respective function.
 7. For the OOP problem there are two additional file attached with it a MYsql DB file and DB Schema .
